@@ -1,6 +1,4 @@
 # progetto_reti_logiche_2021-22
- Implementazione di un codificatoer convoluzionale con tasso di trasmissione 1/2
+ Implementazione di un codificatore convoluzionale con tasso di trasmissione 1/2
 
-Al momento non posso pubblicare il codice e la relazione perchè ci sono ancora consegne disponibili per superare l'esame.
-
-L'ultima consegna sarà il 15 Settembre 2022
+Nel file contenente il codice vhd sono presenti 2 versioni del codice: una seriale, commentata, e una sfruttando il concetto di pipeline. Per maggiori informazioni leggere il report.
